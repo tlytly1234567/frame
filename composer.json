@@ -1,0 +1,12 @@
+{
+    "name": "tlytly1234567/frame",
+    "description": "frame",
+    "authors": [
+        {
+            "name": "tangly",
+            "email": "1150158964@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
