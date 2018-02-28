@@ -8,5 +8,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload":{
+        "files":["opers/functions.php"],
+        "psr-4":{
+            "core\\":"core",
+            "web\\":"web"
+        }
+    }
 }
